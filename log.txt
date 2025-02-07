@@ -1,0 +1,9 @@
+
+1738959531847 : GET : /api/users
+1738959618999 : GET : /api/users
+1738959645628 : POST : /api/users
+1738959659448 : GET : /api/users/67a66b1d6b04e1fbc9a86f8f
+1738959746470 : PATCH : /api/users/67a66b1d6b04e1fbc9a86f8f
+1738959750389 : GET : /api/users
+1738959759832 : DELETE : /api/users/67a66b1d6b04e1fbc9a86f8f
+1738959763591 : GET : /api/users
